@@ -3,5 +3,5 @@
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
     "python.pythonPath": "c:\\Users\\DhaReaL\\Documents\\VSC - Workspace\\Python stuffs\\venv\\Scripts\\python.exe",
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "autopep8"
 }
