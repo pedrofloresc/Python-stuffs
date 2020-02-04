@@ -1,8 +1,3 @@
-# from sqlalchemy import session, User
-# q = session.query(User).limit(2)
-
-# print(q)
-
 
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine, MetaData, Table, Column, Integer, String
